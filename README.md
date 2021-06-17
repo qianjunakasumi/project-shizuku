@@ -65,7 +65,7 @@ SHIZUKU💧（注音：`しずく`） 是一个集 获取虹咲学园相关**新
 
 ## 案例
 
-千橘雫雫@QianjuNana(2103530879) 是 Project SHIZUKU 官方提供的机器人服务
+`千橘雫雫@QianjuNana` 是 Project SHIZUKU 官方提供的机器人服务
 
 ## 贡献
 
@@ -81,8 +81,6 @@ SHIZUKU💧（注音：`しずく`） 是一个集 获取虹咲学园相关**新
 
 ### **渠道**
 
-- [![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-%E8%99%B9%E5%92%B2%E5%AD%A6%E5%9B%AD%E6%9C%AA%E6%9D%A5%E5%BD%A9%E8%99%B9%F0%9F%8C%88%E5%90%8C%E5%A5%BD%E4%BC%9A-brightgreen?style=flat-square)](https://shang.qq.com/wpa/qunwpa?idkey=2844d8f57d50a8818bd70e521ca879467ebc47391698ac4216ba14c44a46be56) （推荐）
-- [![邮箱](https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-qianjunakasumi%40gmail.com-brightgreen?style=flat-square)](mailto:qianjunakasumi@gmail.com)
 - [Issues](https://github.com/qianjunakasumi/project-shizuku/issues)
 
 ### 鸣谢
@@ -128,12 +126,6 @@ SHIZUKU💧（以下简称该软件） 由 Qianjunakasumi 开发（以下简称�
 自您使用该软件开始，您和我之间的合同关系自动成立。除非您停止使用该软件或与我有签署额外合同，  
 您须认真遵循该授权协议约定的每一条款。
 
-我的联系方式：
-
-* Twitter：qianjunakasumi
-* 邮箱：qianjunakasumi@gmail.com
-* QQ：2074466353
-
 > ### 许可证
 
 ![License](https://img.shields.io/github/license/qianjunakasumi/project-shizuku?style=flat-square)
@@ -141,10 +133,6 @@ SHIZUKU💧（以下简称该软件） 由 Qianjunakasumi 开发（以下简称�
 GNU Affero General Public License v3.0
 
 ```
-Copyright (C) 2020-present QianjuNakasumi
-
-E-mail qianjunakasumi@gmail.com
-
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
 by the Free Software Foundation, either version 3 of the License, or
